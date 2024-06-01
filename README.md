@@ -1,4 +1,4 @@
-## Hi there 👋
+![codingcat](https://github.com/bixis/bixis/assets/64713456/c7082bbe-d120-4f2e-8317-2fe9f506df2d)
 
 <!--
 **bixis/bixis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
