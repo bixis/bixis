@@ -5,7 +5,7 @@
 <p>
 building @ <a href="https://trybookr.com">trybookr.com</a><br>
 building @ veralune<br>
-contract swe @ dataannotation.tech
+software engineering AI evals @ dataannotation.tech
 </p>
 
 <p>
