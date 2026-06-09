@@ -5,7 +5,7 @@
 <p>
 building @ <a href="https://trybookr.com">trybookr.com</a><br>
 building @ <a href="https://verolune.com">verolune.com</a><br>
-software engineering AI evals @ dataannotation.tech
+software engineering AI evals
 </p>
 
 <p>
